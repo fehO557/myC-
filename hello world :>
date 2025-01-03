@@ -11,6 +11,11 @@ setlocale(LC_ALL, "");
 /* comentário em várias linhas
 *\
 
+// scanf e printf são entradas e saídas
+
+/* para entrada e saída de fluxo temos respectivamente cin e cout, além disso temos cerr que é a saída de erros, é necessário
+incluir a biblioteca iostream.h *\
+
 printf("Olá mundo \n");
 return;
 }
