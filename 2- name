@@ -1,0 +1,7 @@
+#include <iostream.h>
+void main () {
+char nome [80];
+cout << "qual o seu nome? ";
+cin >> nome;
+cout << "Olá" << nome << ", tudo bem? \n " ;
+}
