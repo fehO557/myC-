@@ -7,6 +7,9 @@ void main () {
 setlocale(LC_ALL, "");
 
 //hello world :>
+// comentário em uma única linha
+/* comentário em várias linhas
+*\
 
 printf("Olá mundo \n");
 return;
