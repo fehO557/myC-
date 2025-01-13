@@ -1,21 +1,7 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <locale.h>
 
+int main() {
+  printf("hello world! \n");
+  return 0;
 
-void main () {
-setlocale(LC_ALL, "");
-
-//hello world :>
-// comentário em uma única linha
-/* comentário em várias linhas
-*\
-
-// scanf e printf são entradas e saídas
-
-/* para entrada e saída de fluxo temos respectivamente cin e cout, além disso temos cerr que é a saída de erros, é necessário
-incluir a biblioteca iostream.h *\
-
-printf("Olá mundo \n");
-return;
 }
